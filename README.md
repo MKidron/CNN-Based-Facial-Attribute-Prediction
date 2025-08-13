@@ -4,7 +4,7 @@ Facial attribute prediction is a critical task in computer vision with applicati
 ---
 
 ### **2. Dataset**
-- Source: https://www.kaggle.com/code/thefranzesk/gender-prediction-using-cnn-pytorch 
+- Source: https://drive.google.com/file/d/1ipJs6bU4BLgN_oYEkpz5Gesm5XCXAECu/view?usp=sharing 
 - Each row has `age`, `gender`, `ethnicity`, and `pixels`.  
 - Preprocessing ensures 48×48 image size.  
 - Age is binned into 10 groups.  
