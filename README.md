@@ -1,15 +1,10 @@
-
----
-
-# **Project Report (Detailed)**
-
 ### **1. Introduction**
 Facial attribute prediction is a critical task in computer vision with applications in security, human-computer interaction, and demographics analysis. This project focuses on predicting **gender, age group, and ethnicity** using a CNN-based multi-task learning framework.
 
 ---
 
 ### **2. Dataset**
-- Source: CSV file containing facial images as flattened pixels.  
+- Source: https://www.kaggle.com/code/thefranzesk/gender-prediction-using-cnn-pytorch 
 - Each row has `age`, `gender`, `ethnicity`, and `pixels`.  
 - Preprocessing ensures 48×48 image size.  
 - Age is binned into 10 groups.  
